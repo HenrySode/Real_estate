@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ulongoni Street",
+    "price": "47,043",
+    "detail": "Ntibazi Garden City Street, Gomz. ",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Kikuyu Recidency",
+    "price": "66,353",
+    "detail": "Maliseli Street XVII No.215, Gomzi, Dodoma, Kikuyu-B, Arusha Road",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Kigamboni Mwisho",
+    "price": "35,853",
+    "detail": "Kigamboni Residence Block A7, Darajani Street, Boma, Chang'ombe",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Area-C Dodoma",
+    "price": "47,043",
+    "detail": "Mally Garden City Street, Niro. Morogoro Road.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Makulu",
+    "price": "66,353",
+    "detail": "Road-6 Street XVII No.215, Oyesterbay, Chamwino, Garden.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Majengo Plotz",
+    "price": "35,853",
+    "detail": "Ipuli Residence Block A7, Ipuli Street, Najengo, Beach.",
+    "image": "./r3.png"
+  }
+]
